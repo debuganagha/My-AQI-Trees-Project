@@ -1,0 +1,20 @@
+lon,lat,year,geoUncertaintyInM,areaInM2,region,country,surveyId,county,district
+10.03355,57.12081,2019,10,707,CONTINENTAL,Denmark,642,North Denmark,Alborg Kommune
+7.333,46.22997,2019,,10,ALPINE,Switzerland,1792,Valais,Sion District
+1.843658,42.58006,2018,0,#NAME?,ALPINE,France,3256,Encamp,
+11.72009,46.26149,2021,10,35,ALPINE,Italy,3855,Trentino-Alto Adige,Provincia di Trento
+9.36187,55.90245,2017,10,79,CONTINENTAL,Denmark,4889,South Denmark,Vejle Kommune
+10.01001,57.12295,2019,10,707,CONTINENTAL,Denmark,5884,North Denmark,Alborg Kommune
+13.75019,42.04737,2017,20,10,MEDITERRANEAN,Italy,6955,Abruzzo,Provincia dell' Aquila
+9.62643,56.86452,2017,10,707,CONTINENTAL,Denmark,8956,North Denmark,Alborg Kommune
+6.199927,52.10887,2020,3,4,ATLANTIC,Netherlands,9037,Gelderland,Gemeente Zutphen
+5.6912,46.33293,2017,1,,CONTINENTAL,France,9537,Rhone-Alpes,Departement de l'Ain
+9.41026,55.57042,2017,10,79,CONTINENTAL,Denmark,11594,South Denmark,Kolding Kommune
+6.151231,43.08357,2018,10,50,MEDITERRANEAN,France,11849,Provence-Alpes-Cote d'Azur,Departement du Var
+6.497538,52.83167,2017,3,4,ATLANTIC,Netherlands,12019,Drenthe,Gemeente Hoogeveen
+6.499299,52.834413,2017,3,4,ATLANTIC,Netherlands,12436,Drenthe,Gemeente Hoogeveen
+9.15586,56.65009,2018,10,79,CONTINENTAL,Denmark,12705,Central Jutland,Skive Kommune
+10.11429,47.35235,2017,50,25,ALPINE,Germany,12842,Vorarlberg,Politischer Bezirk Bregenz
+11.64628,42.28494,2018,3,4,MEDITERRANEAN,Italy,13429,Latium,Provincia di Viterbo
+5.63542,44.98392,2018,1,,ALPINE,France,15914,Rhone-Alpes,Departement de l'Isere
+5.530068,51.317437,2019,3,9,ATLANTIC,Netherlands,16550,North Brabant,Gemeente Cranendonck
