@@ -7,7 +7,7 @@ This project explores the relationship between tree cover and air quality in urb
 The objective of this project is to develop a decision-making tool for identifying areas where tree removal or deforestation would have the least adverse effects on air quality. The model combines several factors, including:
 - **Tree density and species importance**
 - **Air quality measurements (AQI, PM2.5, NO2, CO)**
-- **Geographical and bioclimatic data** (tried to include, but faced issues)
+- **Geographical and bioclimatic data** (tried to include bioclimatic data, but faced issues)
 
 By processing these inputs, the system aims to support responsible urban planning and tree removal strategies that help maintain ecological balance while considering factors such as air pollution and urban development.
 
@@ -35,7 +35,7 @@ By processing these inputs, the system aims to support responsible urban plannin
 To use this project, follow these steps:
 1. Clone this repository to your local machine:
    ```bash
-   git clone https://github.com/yourusername/My-AQI-Trees-Project.git
+   git clone https://github.com/debuganagha/My-AQI-Trees-Project.git
    ```
 2. Install the required Python libraries:
    ```bash
@@ -56,7 +56,7 @@ This project is licensed under the MIT License.
 
 ## Acknowledgements
 - Special thanks to [GeoPlant Dataset](https://www.kaggle.com/datasets/picekl/geoplant/data?select=PA_metadata_train.csv) for providing the spatial plant species data.
-- Thanks to OpenWeatherMap for providing air quality data through their API.
+- Thanks to [OpenWeatherMap API](https://openweathermap.org/) for providing air quality data through their API.
 
 ## Contact
 For any questions or feedback, feel free to contact me at [anaghabhavaraju@gmail.com].
