@@ -1,0 +1,139 @@
+1. species
+Rank among all clusters: 1 of 10800
+
+Pollution Metrics:
+AQI: 3.00 (Cluster) vs 1.54 (Others)
+NO2: 9.25 (Cluster) vs 6.77 (Others)
+CO: 373.84 (Cluster) vs 248.93 (Others)
+PM2.5: 32.71 (Cluster) vs 7.53 (Others)
+
+Species Count: 16
+Tree Density: 16
+
+=== Basic Species Metrics ===
+Total Trees of Species: 260
+Species Prevalence: 2.41%
+
+=== Environmental Impact ===
+Overall Average AQI: 1.54
+Species Location AQI: 2.17
+AQI Difference: 41.34%
+...
+CO Impact Difference: 18.73%
+PM2.5 Impact Difference: 164.15%
+
+2. number
+Pollution Level Comparison:
+
+Recommended Clusters Statistics:
+Average AQI: 1.06
+Average NO2: 1.72
+Average CO: 170.53
+Average PM2.5: 1.29
+
+All Clusters Statistics:
+Average AQI: 1.54
+Average NO2: 6.77
+Average CO: 248.94
+Average PM2.5: 7.53
+
+AQI:
+Selected Areas: 1.06
+All Areas: 1.54
+Difference: -31.1%
+
+NO2:
+Selected Areas: 1.72
+All Areas: 6.77
+Difference: -74.5%
+
+CO:
+Selected Areas: 170.53
+All Areas: 248.94
+Difference: -31.5%
+
+PM2.5:
+Selected Areas: 1.29
+All Areas: 7.53
+Difference: -82.9%
+
+3. loc
+=== Basic Metrics ===
+Total Trees in Area: 135
+Trees Selected for Removal: 13
+Removal Percentage: 9.63%
+
+=== Environmental Impact ===
+Original Average AQI Impact: 2.53
+New Average AQI Impact: 2.39
+AQI Impact Change: -5.24%
+
+=== Biodiversity Impact ===
+Original Unique Species: 442
+Species Affected by Removal: 189
+Remaining Unique Species: 407
+Species Diversity Change: -7.92%
+
+=== Spatial Distribution ===
+Average Distance Between Selected Trees: 0.3206 degrees
+Cluster Density: 6.231976
+
+=== Detailed Environmental Impact ===
+AQI Change: -5.24%
+NO2 Change: -25.74%
+CO Change: -10.32%
+PM2.5 Change: -9.97%
+
+=== Location Analysis Results ===
+
+1. Species and Tree Density:
+   - Total trees in area: 135
+   - Trees per km²: 0.01
+   - Relative density compared to overall: 1.25%
+   - Unique species count: 2966
+   - Average species per location: 21.97
+
+2. Pollution Metrics (Local vs Overall):
+   AQI:
+   - Local average: 2.53
+   - Overall average: 1.54
+   - Difference: +64.3%
+   - Statistically significant: Yes (p=0.0000)
+
+   CO:
+   - Local average: 351.35
+   - Overall average: 248.94
+   - Difference: +41.1%
+   - Statistically significant: Yes (p=0.0000)
+
+   NO2:
+   - Local average: 13.62
+...
+   - Overall average: 7.53
+   - Difference: +273.6%
+   - Statistically significant: Yes (p=0.0000)
+
+Detailed Pollution Comparison:
+----------------------------
+
+AQI:
+  Location Area Average: 2.53
+  Recommended Removal Average: 3.77
+  Overall Average: 1.54
+  Location Area Percentage Difference: +64.3%
+  Recommended Removal Percentage Difference: +145.2%
+
+NO2:
+  Location Area Average: 13.62
+  Recommended Removal Average: 46.51
+  Overall Average: 6.77
+
+CO:
+  Location Area Average: 351.35
+  Recommended Removal Average: 691.71
+  Overall Average: 248.94
+
+PM2.5:
+  Location Area Average: 28.13
+  Recommended Removal Average: 54.46
+  Overall Average: 7.53
